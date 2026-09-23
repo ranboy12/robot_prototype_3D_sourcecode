@@ -5,12 +5,8 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="05d1397e-fa17-4fcf-bbd1-94a556f5bbde" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/.idea/inspectionProfiles/profiles_settings.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/modules.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/robotPrototype.iml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/README.md" beforeDir="false" afterPath="$PROJECT_DIR$/README.md" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -28,6 +24,65 @@
     <commands />
     <urls />
   </component>
+  <component name="NextEditCompletionFeaturesState">
+    <decayedCancelled>
+      <entry key="MS100" value="1.0" />
+      <entry key="MS500" value="1.0000000002799723" />
+      <entry key="S2" value="1.015582350252058" />
+      <entry key="S5" value="1.5998411000737776" />
+      <entry key="S10" value="3.0561107550173734" />
+      <entry key="S30" value="7.021741974954982" />
+      <entry key="S60" value="11.244039169749296" />
+      <entry key="M2" value="15.570003338573873" />
+      <entry key="M5" value="19.528887356450376" />
+      <entry key="M10" value="21.167646910404798" />
+      <entry key="M15" value="21.755777681587098" />
+      <entry key="M30" value="22.366261769952775" />
+      <entry key="H1" value="22.680166398081187" />
+      <entry key="H2" value="22.839334735618667" />
+      <entry key="H4" value="22.919479326196917" />
+      <entry key="D1" value="22.986553691856955" />
+      <entry key="W1" value="22.99807845627379" />
+    </decayedCancelled>
+    <decayedSelected>
+      <entry key="MS100" value="1.3847643361162733E-5" />
+      <entry key="MS500" value="0.10672721429890561" />
+      <entry key="S2" value="0.571569167707018" />
+      <entry key="S5" value="0.7995166592138525" />
+      <entry key="S10" value="0.8941569544626113" />
+      <entry key="S30" value="0.9633954397298136" />
+      <entry key="S60" value="0.9815270957695531" />
+      <entry key="M2" value="0.9907204932621274" />
+      <entry key="M5" value="0.9962778127455992" />
+      <entry key="M10" value="0.9981371713074307" />
+      <entry key="M15" value="0.9987577283153017" />
+      <entry key="M30" value="0.9993786711328704" />
+      <entry key="H1" value="0.9996892872952426" />
+      <entry key="H2" value="0.999844631577948" />
+      <entry key="H4" value="0.9999223127713213" />
+      <entry key="D1" value="0.9999870517094152" />
+      <entry key="W1" value="0.9999981502339373" />
+    </decayedSelected>
+    <decayedShown>
+      <entry key="MS100" value="0.017337023001060076" />
+      <entry key="MS500" value="0.4444959648866399" />
+      <entry key="S2" value="0.924743343212788" />
+      <entry key="S5" value="1.9045735855278223" />
+      <entry key="S10" value="3.6314422123581154" />
+      <entry key="S30" value="7.855181105672234" />
+      <entry key="S60" value="12.1552940188311" />
+      <entry key="M2" value="16.523525219942282" />
+      <entry key="M5" value="20.509609215439863" />
+      <entry key="M10" value="22.157872066175727" />
+      <entry key="M15" value="22.749229081404135" />
+      <entry key="M30" value="23.36297095297396" />
+      <entry key="H1" value="23.678516763799788" />
+      <entry key="H2" value="23.83850884967469" />
+      <entry key="H4" value="23.919066114461593" />
+      <entry key="D1" value="23.986484785772703" />
+      <entry key="W1" value="23.998068611628295" />
+    </decayedShown>
+  </component>
   <component name="ProjectColorInfo">{
   &quot;associatedIndex&quot;: 3,
   &quot;fromUser&quot;: false
@@ -37,29 +92,30 @@
     <option name="hideEmptyMiddlePackages" value="true" />
     <option name="showLibraryContents" value="true" />
   </component>
-  <component name="PropertiesComponent">{
-  &quot;keyToString&quot;: {
-    &quot;ASKED_SHARE_PROJECT_CONFIGURATION_FILES&quot;: &quot;true&quot;,
-    &quot;ModuleVcsDetector.initialDetectionPerformed&quot;: &quot;true&quot;,
-    &quot;RunOnceActivity.MCP Project settings loaded&quot;: &quot;true&quot;,
-    &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;,
-    &quot;RunOnceActivity.git.unshallow&quot;: &quot;true&quot;,
-    &quot;RunOnceActivity.typescript.service.memoryLimit.init&quot;: &quot;true&quot;,
-    &quot;SHARE_PROJECT_CONFIGURATION_FILES&quot;: &quot;true&quot;,
-    &quot;codeWithMe.voiceChat.enabledByDefault&quot;: &quot;false&quot;,
-    &quot;com.intellij.ml.llm.matterhorn.ej.ui.settings.DefaultModelSelectionForGA.v1&quot;: &quot;true&quot;,
-    &quot;git-widget-placeholder&quot;: &quot;master&quot;,
-    &quot;junie.onboarding.icon.badge.shown&quot;: &quot;true&quot;,
-    &quot;last_opened_file_path&quot;: &quot;C:/Users/Giniene/PycharmProjects/robotPrototype/designs_read_to-print&quot;,
-    &quot;node.js.detected.package.eslint&quot;: &quot;true&quot;,
-    &quot;node.js.detected.package.tslint&quot;: &quot;true&quot;,
-    &quot;node.js.selected.package.eslint&quot;: &quot;(autodetect)&quot;,
-    &quot;node.js.selected.package.tslint&quot;: &quot;(autodetect)&quot;,
-    &quot;nodejs_package_manager_path&quot;: &quot;npm&quot;,
-    &quot;settings.editor.selected.configurable&quot;: &quot;preferences.pluginManager&quot;,
-    &quot;to.speed.mode.migration.done&quot;: &quot;true&quot;
+  <component name="PropertiesComponent"><![CDATA[{
+  "keyToString": {
+    "ASKED_SHARE_PROJECT_CONFIGURATION_FILES": "true",
+    "ModuleVcsDetector.initialDetectionPerformed": "true",
+    "RunOnceActivity.MCP Project settings loaded": "true",
+    "RunOnceActivity.ShowReadmeOnStart": "true",
+    "RunOnceActivity.git.unshallow": "true",
+    "RunOnceActivity.typescript.service.memoryLimit.init": "true",
+    "SHARE_PROJECT_CONFIGURATION_FILES": "true",
+    "SearchEverywhere.PersistedScope.ClassSearchEverywhereContributor": "Project Files",
+    "codeWithMe.voiceChat.enabledByDefault": "false",
+    "com.intellij.ml.llm.matterhorn.ej.ui.settings.DefaultModelSelectionForGA.v1": "true",
+    "git-widget-placeholder": "main",
+    "junie.onboarding.icon.badge.shown": "true",
+    "last_opened_file_path": "C:/Users/Giniene/PycharmProjects/robotPrototype/designs_read_to-print",
+    "node.js.detected.package.eslint": "true",
+    "node.js.detected.package.tslint": "true",
+    "node.js.selected.package.eslint": "(autodetect)",
+    "node.js.selected.package.tslint": "(autodetect)",
+    "nodejs_package_manager_path": "npm",
+    "settings.editor.selected.configurable": "preferences.pluginManager",
+    "to.speed.mode.migration.done": "true"
   }
-}</component>
+}]]></component>
   <component name="RecentsManager">
     <key name="CopyFile.RECENT_KEYS">
       <recent name="C:\Users\Giniene\PycharmProjects\robotPrototype\designs_read_to-print" />
@@ -79,7 +135,7 @@
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
       <updated>1790175250260</updated>
-      <workItem from="1790175251288" duration="3998000" />
+      <workItem from="1790175251288" duration="4636000" />
     </task>
     <servers />
   </component>
